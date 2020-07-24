@@ -1,0 +1,1 @@
+# AI-Find-Distinct-People-in-a-Video-with-Amazon-Rekognition
